@@ -1,6 +1,6 @@
-#include <iostream>
-// Write a program to remove duplicates from a sorted array.
+// Write a program to rotate an array by d elements to the left.
 
+#include <iostream>
 using namespace std;
 
 void rotateArray(int arr[], int d, int n) {
